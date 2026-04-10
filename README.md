@@ -1,3 +1,4 @@
+
 # 🚀 LiDAR_LIO_ROS2
 
 > 🎯 **LiDAR–Inertial Odometry (LIO) using ROS2 (C++ implementation inspired by FAST-LIO2 & Faster-LIO). This example is for learning purposes only.**
@@ -22,18 +23,9 @@ This repository implements a **Tightly Coupled LiDAR–Inertial Odometry (LIO)**
 ## 🎥 Demo
 
 <p align="center">
-
-
-https://github.com/user-attachments/assets/d0684fbe-fda1-46c3-8f49-49012bfabdbc
-
-
-
-
-
-
+  <img src="https://github.com/user-attachments/assets/d7be0157-a983-4f50-9fd1-ce87a175f1ce" width="700"/>
 </p>
 
----
 
 ## ⚙️ Features
 
