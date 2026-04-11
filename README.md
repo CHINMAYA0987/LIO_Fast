@@ -68,7 +68,7 @@ The system follows a modern LIO pipeline:
 ## 🧪 Dataset
 
 Tested on:
-- 📦 **MulRan KAIST_01 Dataset**  
+- 📦 **MulRan KAIST Dataset**  
 
 
 ---
@@ -89,7 +89,7 @@ ros2 launch tight_lio tight_lio.launch.py
 ### Play dataset:
 
 ```bash
-ros2 bag Dataset/MulRan_KAIST/kaist01_ros2
+ros2 bag Dataset/MulRan_KAIST/kaist_ros2
 ```
 
 ---
